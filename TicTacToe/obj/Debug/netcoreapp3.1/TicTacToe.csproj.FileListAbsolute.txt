@@ -1,0 +1,42 @@
+C:\Repos\wpf\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.exe
+C:\Repos\wpf\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+C:\Repos\wpf\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+C:\Repos\wpf\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+C:\Repos\wpf\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Repos\wpf\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Repos\wpf\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csprojAssemblyReference.cache
+C:\Repos\wpf\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Repos\wpf\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Repos\wpf\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe_MarkupCompile.cache
+C:\Repos\wpf\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe_MarkupCompile.lref
+C:\Repos\wpf\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Repos\wpf\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.g.resources
+C:\Repos\wpf\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+C:\Repos\wpf\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+C:\Repos\wpf\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Repos\wpf\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Repos\wpf\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Repos\wpf\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache
+C:\Repos\wpf\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\AskDimensions.g.cs
+C:\Repos\wpf\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\AskDimensions.baml
+C:\Users\ja200\Documents\Dokumentumok_gep\Prog. körny\TicTacToe---Unfinished\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.exe
+C:\Users\ja200\Documents\Dokumentumok_gep\Prog. körny\TicTacToe---Unfinished\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+C:\Users\ja200\Documents\Dokumentumok_gep\Prog. körny\TicTacToe---Unfinished\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+C:\Users\ja200\Documents\Dokumentumok_gep\Prog. körny\TicTacToe---Unfinished\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+C:\Users\ja200\Documents\Dokumentumok_gep\Prog. körny\TicTacToe---Unfinished\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Users\ja200\Documents\Dokumentumok_gep\Prog. körny\TicTacToe---Unfinished\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Users\ja200\Documents\Dokumentumok_gep\Prog. körny\TicTacToe---Unfinished\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csprojAssemblyReference.cache
+C:\Users\ja200\Documents\Dokumentumok_gep\Prog. körny\TicTacToe---Unfinished\TicTacToe\obj\Debug\netcoreapp3.1\AskDimensions.g.cs
+C:\Users\ja200\Documents\Dokumentumok_gep\Prog. körny\TicTacToe---Unfinished\TicTacToe\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ja200\Documents\Dokumentumok_gep\Prog. körny\TicTacToe---Unfinished\TicTacToe\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ja200\Documents\Dokumentumok_gep\Prog. körny\TicTacToe---Unfinished\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe_MarkupCompile.cache
+C:\Users\ja200\Documents\Dokumentumok_gep\Prog. körny\TicTacToe---Unfinished\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe_MarkupCompile.lref
+C:\Users\ja200\Documents\Dokumentumok_gep\Prog. körny\TicTacToe---Unfinished\TicTacToe\obj\Debug\netcoreapp3.1\AskDimensions.baml
+C:\Users\ja200\Documents\Dokumentumok_gep\Prog. körny\TicTacToe---Unfinished\TicTacToe\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ja200\Documents\Dokumentumok_gep\Prog. körny\TicTacToe---Unfinished\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.g.resources
+C:\Users\ja200\Documents\Dokumentumok_gep\Prog. körny\TicTacToe---Unfinished\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\ja200\Documents\Dokumentumok_gep\Prog. körny\TicTacToe---Unfinished\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+C:\Users\ja200\Documents\Dokumentumok_gep\Prog. körny\TicTacToe---Unfinished\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\ja200\Documents\Dokumentumok_gep\Prog. körny\TicTacToe---Unfinished\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Users\ja200\Documents\Dokumentumok_gep\Prog. körny\TicTacToe---Unfinished\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Users\ja200\Documents\Dokumentumok_gep\Prog. körny\TicTacToe---Unfinished\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache
