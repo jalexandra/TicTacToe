@@ -39,6 +39,8 @@ namespace TicTacToe
             var childWindow = new AskDimensions(this);
             childWindow.Show();
             childWindow.Focus();
+            matrix.Clear();
+            player1 = true;
         }
 
         public void GotDimension(byte dimensions)
@@ -116,9 +118,8 @@ namespace TicTacToe
 
                 if (rowSum == MatrixDimensions)
                     MessageBox.Show("The winner is Player1!", "It's a Winner!", MessageBoxButton.OK, MessageBoxImage.Information);
-                else if(rowSum == -MatrixDimensions)
+                else if (rowSum == -MatrixDimensions)
                     MessageBox.Show("The winner is Player2!", "It's a Winner!", MessageBoxButton.OK, MessageBoxImage.Information);
-
             }
         }
         private void CheckCol()
@@ -188,6 +189,14 @@ namespace TicTacToe
                 MessageBox.Show("The winner is Player1!", "It's a Winner!", MessageBoxButton.OK, MessageBoxImage.Information);
             else if (sumInvDiagon == -MatrixDimensions)
                 MessageBox.Show("The winner is Player2!", "It's a Winner!", MessageBoxButton.OK, MessageBoxImage.Information);
+        }
+        private void NewG_Click(object sender, RoutedEventArgs e)
+        {
+            MainWindow_OnLoaded(sender, e);
+        }
+        private void Info_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Created by Alexandra Jambor in 2021");
         }
     }
 }
